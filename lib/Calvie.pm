@@ -1,3 +1,5 @@
+# ABSTRACT: Provide secret-based authentication to confluence calendars.
+
 package Calvie;
 use OX;
 use namespace::autoclean;
